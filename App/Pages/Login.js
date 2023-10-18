@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
         flexDirection:'row',
         justifyContent: 'center',
         alignItems: 'center',
-        margin: 30,
-        borderRadius: 30,
+        margin: 20,
+        borderRadius: 20,
     },
 })
