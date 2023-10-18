@@ -28,8 +28,8 @@ const styles = StyleSheet.create({
         flex:0.7,
         marginTop: -10,
         backgroundColor:'fff',
-        borderTopLeftRadius: 30,
-        borderTopRightRadius: 30,
+        borderTopLeftRadius: 10,
+        borderTopRightRadius: 10,
     },
     welcomeText:{
       fontSize:32, 
